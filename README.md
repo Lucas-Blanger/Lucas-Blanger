@@ -4,6 +4,7 @@
 - 🔭 I'm a computer science student at the Federal University of Santa Maria.
 - 💻 I'm a computer technician from the Federal Institute of Rio Grande do Sul.
 - 📫 @lucas_blanger
+- 🌍 https://lucas-blanger.github.io/portfolio/
 
 <div>
   <a href="https://github.com/Lucas-Blanger">
