@@ -1,7 +1,7 @@
 ### Lucas Blanger here 🦫
 
 
-- 🔭 I'm a computer science student at the Federal University of Santa Maria.
+- 🔭 I'm a computer science student at the Universidade Regional Integrada do Alto Uruguai e das Missões - Campus Erechim.
 - 💻 I'm a computer technician from the Federal Institute of Rio Grande do Sul.
 - 📫 @lucas_blanger
 - 🌍 https://lucas-blanger.github.io/portfolio/
