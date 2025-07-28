@@ -57,7 +57,7 @@
   <a href="https://www.linkedin.com/in/lucas-blanger-4668a2210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucas-Blanger/Lucas-Blanger/output/github-contribution-grid-snake.svg">
   <a href = "mailto:blangerlucas@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://lucas-blanger.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/aboutMe-green?style=for-the-badge&ogo=gmail&logoColor=white" alt="aboutMe" target="_blank"></a>
+  <a href="https://lucas-blanger.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/aboutMe-green?style=for-the-badge&ogo=gmail&logoColor=white" alt="aboutMe" target="_blank"></a>
 </div>
 
 ##
