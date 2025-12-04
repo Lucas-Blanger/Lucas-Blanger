@@ -32,7 +32,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
   <img align="center" alt="Lucas-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Lucas-Laravel" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Lucas-Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
+  <img align="center" alt="Lucas-Laravel" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+ 
 
 </div>
 
