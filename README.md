@@ -6,9 +6,8 @@
 - 📫 @lucas_blanger
 - 🌍 https://lucas-blanger.vercel.app/
 
-<div>
-  <a href="https://github.com/Lucas-Blanger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Blanger&layout=compact&theme=dark">  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lucas-Blanger/Lucas-Blanger/main/metrics.svg" width="300">
 </div>
     
 ### My skills 👩🏻‍💻
