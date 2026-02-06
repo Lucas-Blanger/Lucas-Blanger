@@ -7,7 +7,9 @@
 - 🌍 https://lucas-blanger.vercel.app/
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Lucas-Blanger/Lucas-Blanger/main/metrics.svg" width="300">
+
+![GitHub Metrics](https://raw.githubusercontent.com/Lucas-Blanger/Lucas-Blanger/main/github-metrics.svg)
+
 </div>
     
 ### My skills 👩🏻‍💻
