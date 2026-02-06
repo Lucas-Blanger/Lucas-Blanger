@@ -17,6 +17,8 @@ jobs:
           base: repositories
           config_timezone: America/Sao_Paulo
 
+          config_theme: dark
+
           # Linguagens
           plugin_languages: yes
           plugin_languages_ignored: html, css
