@@ -5,12 +5,6 @@
 - 💻 I'm a computer technician from the Federal Institute of Rio Grande do Sul.
 - 📫 @lucas_blanger
 - 🌍 https://lucas-blanger.vercel.app/
-
-<div align="center">
-
-![GitHub Metrics](https://raw.githubusercontent.com/Lucas-Blanger/Lucas-Blanger/main/github-metrics.svg)
-
-</div>
     
 ### My skills 👩🏻‍💻
 
