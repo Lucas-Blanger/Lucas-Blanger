@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Lucas-Blanger
           template: classic
-          base: repositories
+          base: ""
           config_timezone: America/Sao_Paulo
 
           config_theme: dark
