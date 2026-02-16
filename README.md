@@ -5,45 +5,88 @@
 - 💻 I'm a computer technician from the Federal Institute of Rio Grande do Sul.
 - 📫 @lucas_blanger
 - 🌍 https://lucas-blanger.vercel.app/
+
+[![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=Lucas-Blanger&layout=compact&theme=tokyonight)](https://github.com/Pranesh-2005/github-readme-stats-fast)
     
 ### My skills 👩🏻‍💻
+<table align="center">
+<tr>
+<td align="center" width="250px">
 
-#### 🖥️ Frontend
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<h3>🖥️ Frontend</h3>
 
-#### 🛠️ Backend
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Node" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Lucas-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- 
-</div>
+<p>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</p>
 
-#### 🧩 Frameworks
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
-  <img align="center" alt="Lucas-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
-  <img align="center" alt="Lucas-Django" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
-  <img align="center" alt="Lucas-Django" height="40" width="30" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
-</div>
+</td>
 
-#### 🗄️ Database
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Lucas-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-</div>
+<td align="center" width="250px">
 
-#### ⚙️ Others
-<div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Godot" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
-  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-  <img align="center" alt="Lucas-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-   <img align="center" alt="Lucas-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-</div>
+<h3>🛠️ Backend</h3>
+
+<p>
+    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+
+</p>
+
+</td>
+
+<td align="center" width="250px">
+
+<h3>🧩 Frameworks</h3>
+
+<p>
+    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<h3>🗄️ Database</h3>
+
+<p>
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</p>
+
+</td>
+
+<td align="center">
+
+<h3>⚙️ DevOps & Tools</h3>
+
+<p>
+    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+</p>
+
+</td>
+
+<td align="center">
+
+<h3>🎮 Others</h3>
+
+<p>
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+</p>
+
+</td>
+</tr>
+</table>
 
 
 ##
