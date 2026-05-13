@@ -28,11 +28,10 @@
 <h3>🛠️ Backend</h3>
 
 <p>
-    <img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-
 </p>
 
 </td>
@@ -42,8 +41,8 @@
 <h3>🧩 Frameworks</h3>
 
 <p>
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </p>
@@ -52,6 +51,19 @@
 </tr>
 
 <tr>
+<td align="center">
+
+<h3>📊 Data Analysis & ML</h3>
+
+<p>
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+<img height="45" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+</p>
+
+</td>
+
 <td align="center">
 
 <h3>🗄️ Database</h3>
@@ -68,15 +80,17 @@
 <h3>⚙️ DevOps & Tools</h3>
 
 <p>
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-    <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 </p>
 
 </td>
+</tr>
 
-<td align="center">
+<tr>
+<td colspan="3" align="center">
 
 <h3>🎮 Others</h3>
 
@@ -87,7 +101,6 @@
 </td>
 </tr>
 </table>
-
 
 ##
 
