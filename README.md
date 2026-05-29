@@ -85,6 +85,7 @@
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
 </p>
 
 </td>
