@@ -44,6 +44,7 @@
 <p>
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+<img height="40" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
 <img height="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
 </p>
@@ -84,7 +85,6 @@
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-<img height="45" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg">
 </p>
 
