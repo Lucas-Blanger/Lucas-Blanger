@@ -73,6 +73,7 @@
 <p>
 <img height="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
 <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img height="45" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg">
 </p>
 
 </td>
