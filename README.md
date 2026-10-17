@@ -1,7 +1,8 @@
 ### Lucas Blanger here 🦫
 
-
 - 🔭 I'm a computer science student at the Universidade Regional Integrada do Alto Uruguai e das Missões - Campus Erechim.
+- 🧪 I'm doing undergraduate research in Machine Learning, focused on explainable credit card fraud detection.
+- 💼 I'm a Software Engineer Intern at DBC Company.
 - 💻 I'm a computer technician from the Federal Institute of Rio Grande do Sul.
 - 📫 @lucas_blanger
 - 🌍 https://lucas-blanger.vercel.app/
